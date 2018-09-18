@@ -1,0 +1,21 @@
+amstel|Amstel Beer|Netherlands|5.0%|150 calories|Pale Lager
+amstellight|Amstel Light|Netherlands|3.5%|105 calories|Pale Lager
+budlight|Bud Light|USA|4.2%|126 calories|Pale Lager
+budlightlime|Bud Light Lime|USA|4.2%|126 calories|Fruit Beer
+brooklynlager|Brooklyn Lager|USA|5.2%|156 calories|Amber Lager / Vienna
+budweiser|Budweiser|USA|5.0%|150 calories|Pale Lager
+buxton|Buxton Rednik Stout|England|4.1%|123 calories|Stout - Dry
+corona|Corona Premier|Mexican|4.0%|120 calories|Pale Lager
+coronalight|Corona Light|Mexico|3.7%|99 calories|Pale Lager
+echigo|Echigo Ikinama All Malt Beer|Japan|5.0%|150 calories|Premium Lager
+fruh|Fruh Kolsch|Germany|4.8%|144 calories|Kolsch
+hefeweizen|Weihenstephaner Hefeweissbier|Germany|5.4%|162 calories|Weissbier - Hefeweizen
+heineken|Heineken|5.0%|Netherlands|150 calories|Pale Lager
+heinekenlight|Heineken Premium Light|Netherlands|3.3%|99 calories|Pale Lager
+lagunitasipa|Lagunitas IPA|USA|6.2%|186 calories|IPA
+michelultra|Michelob Ultra|USA|4.2%|126 calories|Pale Lager
+montauk|Montauk Summer Ale|USA|5.6%|168 calories|Golden Ale / Blond Ale
+samadams|San Adams Boston Lager|USA|4.9%|147 calories|Amber Lager / Vienna
+saporo|Sapporo Yebisu Beer|Japan|5.0%|150 calories|Premium Lager
+sierranevada|Sierra Nevada Pale Ale|USA|5.6%|186 calories|Pale Ale - American
+wychwood|Wychwood Hobgoblin|England|5.2%|156 calories|Premium Bitter / ESB
